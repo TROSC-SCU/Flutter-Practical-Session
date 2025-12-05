@@ -2,17 +2,17 @@
 
 ## 📚 Course Materials
 
-### [01 - Dart Fundamentals](./01-dart-fundamentals/)
+### [01 - Dart Fundamentals](./01-Dart-Fundamentals/)
 Learn Dart basics: variables, functions, OOP concepts
 
-### [02 - Flutter Basics](./02-flutter-basics/)
+### [02 - Flutter Basics](./02-Flutter-Basic-Widgets/)
 Essential Flutter widgets and layouts
 
-### [03 - ToDo App Project](./03-todo-app-project/)
+### [03 - ToDo App Project](./03-Todo-App-Project/)
 Complete project with Provider + Hive
 
-### [04 - Project Ideas](./04-project-ideas/)
-10 alternative project suggestions
+### [04 - Project Ideas](./04-Project-Ideas/)
+10 alternative project suggestions + Team Division
 
 ## 🎯 Project Requirements
 - State Management: **Provider only**
