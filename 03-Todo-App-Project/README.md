@@ -139,10 +139,6 @@ studentBox.deleteAt(0);
 
 # 🌿 Provider – State Management Guide
 
-This guide explains **only the parts of Provider that you actually need** for building a CRUD app with Hive.
-
----
-
 ## 📌 What We Need From Provider
 
 Your app must:
@@ -355,6 +351,3 @@ class AddStudentScreen extends StatelessWidget {
 | `context.watch` | Reads data & rebuilds UI on change |
 | `context.read` | Executes actions without rebuild |
 
----
-
-**Happy coding with Provider! 🌿**
