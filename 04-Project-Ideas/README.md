@@ -1,7 +1,7 @@
-## Table of Contents
-1. [Project Requirements](#--project-requirements)
-2. [Project Ideas](#--project-ideas)
-3. [Team Division](#--team-division)
+## 📚 Table of Contents
+1. [Project Requirements](#-project-requirements)
+2. [Project Ideas](#-project-ideas)
+3. [Team Division](#-team-division)
 
 
 ## 🎯 Project Requirements
@@ -125,4 +125,5 @@ This project is designed for **6 students**.
 - Add empty state UI (when no items exist)
 - Polish UI animations and transitions
 - Final testing and bug fixes
+
 
