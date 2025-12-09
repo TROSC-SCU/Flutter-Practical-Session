@@ -157,6 +157,27 @@ That's it — no need for advanced architecture.
 
 ---
 
+## 📦 0. Installing Provider
+
+Add this to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.2
+```
+
+Then run:
+
+```bash
+flutter pub get
+```
+
+---
+
+
 ## 🟩 1. Create a Provider Class
 
 Your provider will:
@@ -350,4 +371,5 @@ class AddStudentScreen extends StatelessWidget {
 | `notifyListeners()` | Rebuilds listening widgets |
 | `context.watch` | Reads data & rebuilds UI on change |
 | `context.read` | Executes actions without rebuild |
+
 
